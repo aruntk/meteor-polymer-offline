@@ -1,5 +1,5 @@
 const HTMLToCache = '/';
-const version = 'v1.0.0';
+const version = 'v1.0.1';
 
 self.addEventListener('install', (event) => {
   event.waitUntil(caches.open(version).then((cache) => {
