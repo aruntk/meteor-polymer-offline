@@ -1,0 +1,16 @@
+{ 
+  "short_name": "MWC",
+  "name": "MWC",
+  "icons": [
+    {
+      "src": "synthesis.png",
+      "sizes": "400x400",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color":"#3f51b5",
+  "background":"#3f51b5",
+  "background_color":"#3f51b5"
+}
